@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="assets/anime-github-banner.png" alt="Anime-inspired midnight developer banner" width="100%">
+<img src="./anime-github-banner.png" alt="Anime-inspired midnight developer banner" width="100%">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=CSE+Student+%40+MNIT+Jaipur;C%2B%2B+%7C+DSA+%7C+Python;Build+%E2%86%92+Learn+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing introduction">
 
