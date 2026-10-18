@@ -46,13 +46,6 @@ Currently focused on strengthening my DSA fundamentals, improving my development
 
 </div>
 
-## 🚀 Projects & Experiments
-
-### 🧪 Deutsch–Jozsa Quantum Algorithm GUI Simulator
-
-A graphical simulator designed to demonstrate the Deutsch–Jozsa quantum algorithm.
-
-**Stack:** Python · Flask · Qiskit · HTML · CSS · JavaScript
 
 ### 🧩 DSA Practice
 
